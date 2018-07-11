@@ -1,6 +1,6 @@
 import functions as f
 
-
+test = 'add test'
 order = []
 total = 0
 order_number = 1
